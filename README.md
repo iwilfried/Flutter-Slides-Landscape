@@ -7,6 +7,7 @@ A simple Slides Flutter app
 [Preview a Webapp demo](flutter-slides-landscape.codemagic.app) 
 
 or Scan This Qr code to go to the website 
+
 ![frame (8)](https://user-images.githubusercontent.com/18642838/151189134-d8c20f06-c566-4196-bf80-030c0dd4e1d1.png)
 
 
