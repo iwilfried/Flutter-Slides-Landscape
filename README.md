@@ -4,7 +4,7 @@ A simple Slides Flutter app
 
 ## Preview
 
-[Preview a Webapp demo](flutter-slides-landscape.codemagic.app) 
+[Preview a Webapp demo](https://flutter-slides-landscape.codemagic.app) 
 
 or Scan This Qr code to go to the website 
 
