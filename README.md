@@ -6,7 +6,8 @@ A simple Slides Flutter app
 
 [Preview a Webapp demo](flutter-slides-landscape.codemagic.app) 
 
-or Scan This Qr code to go to the website ![frame (8)](https://user-images.githubusercontent.com/18642838/151189134-d8c20f06-c566-4196-bf80-030c0dd4e1d1.png)
+or Scan This Qr code to go to the website 
+![frame (8)](https://user-images.githubusercontent.com/18642838/151189134-d8c20f06-c566-4196-bf80-030c0dd4e1d1.png)
 
 
 [Download the release APK to try out on your android phone](https://install.appcenter.ms/users/momenamiin/apps/flutter_slides_landscape/distribution_groups/public) 
